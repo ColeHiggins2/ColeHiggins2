@@ -2,7 +2,7 @@
 
 **`Software Engineer (Development/Automation/Testing)`**
 
-I am a software engineer with experience in full-stack development, automation testing, and back-end scripting for ETL processes. Currently, I work at Red Hat, where I focus on building the automation framework and developing internal tools to support Satellite QE.
+I'm a software engineer with experience in full-stack development, automation testing, and back-end scripting for ETL processes. Currently, I work at Red Hat, where I focus on building the automation framework and developing internal tools to support Satellite QE.
 
 ---
 
@@ -31,7 +31,7 @@ I am a software engineer with experience in full-stack development, automation t
 
 ### 📊 Stats
 
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colehiggins2&show=reviews,prs_merged,prs_merged_percentage&theme=noctis_minimus)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colehiggins2&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=noctis_minimus)
 
 #
 <!--
