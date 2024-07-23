@@ -1,4 +1,4 @@
-# 👋 Cole Higgins
+# :surfer: Cole Higgins
 
 **`Software Engineer (Development/Automation/Testing)`**
 
