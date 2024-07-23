@@ -30,7 +30,7 @@ Software Engineer with experience in full-stack web development, automation test
 <br />
 
 
-#
+---
 
 ### 📊 Stats
 
