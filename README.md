@@ -34,7 +34,7 @@ Software Engineer with experience in full-stack web development, automation test
 
 ### 📊 Stats
 
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colehiggins2&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=noctis_minimus)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colehiggins2&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=noctis_minimus)
 
 #
 <!--
