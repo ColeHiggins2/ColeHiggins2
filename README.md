@@ -1,8 +1,8 @@
 # 👋 Cole Higgins
 
-**`Software Engineer (Backend/Development/Automation/Testing)`**
+**`Software Engineer (Development/Automation/Testing)`**
 
-Software Engineer with experience in full-stack web development, automation testing, and back-end scripting for ETL
+I am a software engineer with experience in full-stack development, automation testing, and back-end scripting for ETL processes. Currently, I work at Red Hat, where I focus on building the automation framework and developing internal tools to support Satellite QE.
 
 ---
 
