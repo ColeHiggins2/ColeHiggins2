@@ -33,7 +33,6 @@ I'm a software engineer with experience in full-stack development, automation te
 
 ![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colehiggins2&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&theme=noctis_minimus)
 
-
 #
 <!--
 **ColeHiggins2/ColeHiggins2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
